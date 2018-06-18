@@ -1,0 +1,7 @@
+database:
+  uri: postgresql://postgres:postgres@localhost:5432/test
+
+smtp:
+  server: smtp.gmail.com:587
+  username: dmitry.turovatov@eteron.ru
+  password: 42562022

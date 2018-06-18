@@ -1,0 +1,4 @@
+sqlalchemy==1.2.8
+pyyaml==3.12
+mako==1.0.7
+flask==1.0.2
